@@ -15,6 +15,7 @@ func ExpectedPackages() []string {
 		"manifest",
 		"mirrormark",
 		"pension-rules",
+		"taper",
 	}
 }
 
